@@ -1,5 +1,5 @@
 
-  # ContactGuard
+  # ContractGuard
   
 AI-powered auditing pipeline that helps Web3 teams secure their smart contracts in minutes instead of weeks. It automatically scans Solidity/Vyper contracts, explains vulnerabilities in plain language, generates secure patches, runs tests, and opens a merge-ready pull request.
 
